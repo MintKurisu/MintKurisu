@@ -12,7 +12,7 @@ Backend developer focused on scalable architecture and real-world system design.
 
 ---
 
-## 🚀 About Me
+## 🌠 About Me
 
 - Backend-focused developer
 - Interested in clean architecture and scalable systems
@@ -21,7 +21,7 @@ Backend developer focused on scalable architecture and real-world system design.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,bootstrap,git,github,vscode,visualstudio" />
