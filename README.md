@@ -24,18 +24,3 @@ C# / ASP.NET Core developer focused on scalable architecture and real-world syst
 - Git & GitHub
 
 ---
-
-## Interests
-
-- Backend architecture
-- System design
-- Video game development
-- Interactive applications
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MintKurisu&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MintKurisu&layout=compact&theme=dark)
