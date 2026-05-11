@@ -1,5 +1,3 @@
-# Cris
-
 C# / ASP.NET Core developer focused on scalable architecture and real-world system design.
 
 ---
@@ -23,4 +21,3 @@ C# / ASP.NET Core developer focused on scalable architecture and real-world syst
 - Bootstrap
 - Git & GitHub
 
----
