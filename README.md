@@ -25,6 +25,8 @@ C# / ASP.NET Core developer focused on scalable architecture and real-world syst
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MintKurisu&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MintKurisu&show_icons=true&theme=tokyonight&hide_border=true" height="165">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MintKurisu&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MintKurisu&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
