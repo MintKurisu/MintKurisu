@@ -1,8 +1,18 @@
-C# / ASP.NET Core developer focused on scalable architecture and real-world system design.
+<h1 align="center">Cris</h1>
+
+<p align="center">
+Backend developer focused on scalable architecture and real-world system design.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MintKurisu&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MintKurisu&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - Backend-focused developer
 - Interested in clean architecture and scalable systems
@@ -11,22 +21,8 @@ C# / ASP.NET Core developer focused on scalable architecture and real-world syst
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- C#
-- ASP.NET Core MVC
-- Entity Framework Core
-- MySQL / PostgreSQL
-- ASP.NET Identity
-- Bootstrap
-- Git & GitHub
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MintKurisu&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MintKurisu&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,bootstrap,git,github,vscode,visualstudio" />
 </p>
