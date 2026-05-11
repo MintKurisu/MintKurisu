@@ -6,7 +6,7 @@ C# / ASP.NET Core developer focused on scalable architecture and real-world syst
 
 - Backend-focused developer
 - Interested in clean architecture and scalable systems
-- Passionate about game development and interactive software
+- Interested about game development and interactive software
 - Currently building full-stack ASP.NET Core applications
 
 ---
