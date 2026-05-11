@@ -21,3 +21,10 @@ C# / ASP.NET Core developer focused on scalable architecture and real-world syst
 - Bootstrap
 - Git & GitHub
 
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MintKurisu&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MintKurisu&layout=compact&theme=tokyonight&hide_border=true)
