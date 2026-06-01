@@ -26,3 +26,11 @@ Backend developer focused on scalable architecture and real-world system design.
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,mysql,postgres,bootstrap,git,github,vscode,visualstudio" />
 </p>
+
+## 💬 Talk To Me!
+<a href="https://www.linkedin.com/in/cristian-e-pacheco-2951272b9/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:pachecocruzc258@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
